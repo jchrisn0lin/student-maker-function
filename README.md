@@ -1,2 +1,2 @@
-# student-maker-function
-A student maker factory function in JavaScript
+## student-maker-function
+### A student maker factory function in JavaScript
